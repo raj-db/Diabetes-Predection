@@ -1,2 +1,2 @@
 # Diabetes-Predection
-Uses Input sequences Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI,DPF, Age
+Uses Input sequences pregnancy, glucose, bp, skin thickness, insulin, BMI,DPF, age
